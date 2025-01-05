@@ -1,2 +1,4 @@
-repo
-data
+repo/*
+data/*
+
+

@@ -1,5 +1,5 @@
-repo/*.v 
-repo/*.csv
+./repo/*.v 
+./repo/*.csv
 
 
 
